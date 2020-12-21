@@ -2,5 +2,5 @@
 Aplicação em Spring Boot para estudos APIs REST usando teste com o Postman.
 
 
-![Capturar](Capturar.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
