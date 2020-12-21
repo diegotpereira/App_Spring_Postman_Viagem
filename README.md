@@ -2,3 +2,5 @@
 Aplicação em Spring Boot para estudos APIs REST usando teste com o Postman.
 
 
+![Capturar](Capturar.png)
+
