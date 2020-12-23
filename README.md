@@ -1,5 +1,5 @@
 # App_Spring_Postman_Viagem
-Aplicação em Spring Boot para estudos APIs REST usando teste com o Postman.
+Aplicação em Spring Boot para estudos APIs REST testando com o Postman.
 
 Exemplo da saída:
 
